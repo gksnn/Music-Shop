@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;      
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #E9ECEF;
+}
+/* Navbar*/
+.header{
+    background: #313940;
+    display: flex;
+    align-items: center;
+    height: 5rem;
+}
+
+.navbar-header{
+    color: white;
+    margin:40px;
+}
+.header a{
+    text-decoration: none;
+    margin-left: 20rem;
+    color:white;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/*Body*/
+.head{
+    text-align: center;
+}
+
+.about{
+    margin: 20px;
+}
